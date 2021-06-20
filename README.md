@@ -1,4 +1,4 @@
-[Preview the project](https://hardcore-archimedes-c9751c.netlify.app)
+[Preview the project](simplee-react-calculator.netlify.app)
 
 # Getting Started with Create React App
 
