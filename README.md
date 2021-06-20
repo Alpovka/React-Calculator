@@ -1,4 +1,4 @@
-[Preview the project](simplee-react-calculator.netlify.app)
+[Preview the project](https://simplee-react-calculator.netlify.app/)
 
 # Getting Started with Create React App
 
